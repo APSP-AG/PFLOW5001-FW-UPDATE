@@ -54,14 +54,16 @@ This guide covers the initial setup for a firmware update for PFLOW5001/PFLOWC50
 - Set the adapter's dip switches in the following combination: <br/> ![image](https://github.com/APSP-AG/PFLOW5001-FW-UPDATE/assets/72441261/3321004a-2868-4c47-a407-1b295f0feb9b)
 - Wire the flow sensor's TX (Transmit) to the adapter's RX (Receive)
 - Wire the sensor's RX (Receive) to the adapter's TX (Transmit)
-- Connect the GND pins of both the sensor, adapter and power supply.
+- Connect the GND pins of both the sensor, adapter and power supply. <br/> ![image](https://github.com/APSP-AG/PFLOW5001-FW-UPDATE/assets/72441261/7345bf0f-7717-4e94-b3cc-053a07572c0a)
+
 
 ### 2.3 RS485-2W connection:
 - Use the EX-1309-T adapter: <br/> ![image](https://github.com/APSP-AG/PFLOW5001-FW-UPDATE/assets/72441261/1eaa6cca-9ca9-4115-b171-801c4f335ed0)
 - Set the adapter's dip switches in the following combination: <br/> ![image](https://github.com/APSP-AG/PFLOW5001-FW-UPDATE/assets/72441261/314ec5f0-b7cb-4400-b4d5-6402325132bd)
 - Wire the flow sensor's D+ (Data Positive) to the adapter's D+
 - Wire the sensor's D- (Data Negative) to the adapter's D-
-- Connect the GND pins of both the sensor, adapter and power supply.
+- Connect the GND pins of both the sensor, adapter and power supply. <br/> ![image](https://github.com/APSP-AG/PFLOW5001-FW-UPDATE/assets/72441261/86278c84-6b89-4744-9c1f-27794d3b4c0b)
+
 
 - Connect the USB adapter to your PC.
 
