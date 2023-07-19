@@ -10,7 +10,7 @@ This repository contains:
 
 # PFLOW(C)5001 Firmware Update Guide
 
-This guide covers the initial setup for a firmware update for PFLOW5001/PFLOWC5001 flow sensors using the Angst+Pfister Test Studio software. The actual firmware update process is detailed in the separate manual.
+This guide covers the initial setup for a firmware update for PFLOW5001/PFLOWC5001 flow sensors using the Angst+Pfister Test Studio software. The actual firmware update process is detailed in the Angst+Pfister Test Studio software manual.
 
 
 ## Table of Contents
