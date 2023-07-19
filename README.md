@@ -25,7 +25,7 @@ This guide covers the initial setup for a firmware update for PFLOW5001/PFLOWC50
 
 ## 1. Preparation
 
-  Before starting the process, you need to download the necessary files from the repository.
+  Before starting the process, you need to download the necessary files from this repository.
   
   ### 1.1 Download Files from GitHub
   
