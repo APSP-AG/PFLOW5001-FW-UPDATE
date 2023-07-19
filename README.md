@@ -26,18 +26,16 @@ This guide covers the initial setup for a firmware update for PFLOW5001/PFLOWC50
 
 ## 1. Preparation
 
-Before starting the process, you need to download the necessary files from the repository.
-
-### 1.1 Download Files from GitHub
-
-- Navigate to the [PFLOW5001/PFLOWC5001 Firmware Update GitHub repository](https://github.com/APSP-AG/PFLOW5001-FW-UPDATE).
-- Click on the `Code` button. It is usually located near the top right of the page.
-- In the dropdown, click `Download ZIP`.
-- Once the ZIP file is downloaded, extract it. You should now have access to the Angst+Pfister Test Studio software, firmware file, manuals for the software, firmware upgrade process, and USB adapters, as well as the datasheet for PFLOW5001 sensor.
-
-### 1.2 
-- Ensure you have the appropriate USB adapter at hand. Use EX-1309-T for RS485 and RS232 EIA, or MIKROE-1203 for RS232 TTL.
-
+  Before starting the process, you need to download the necessary files from the repository.
+  
+  ### 1.1 Download Files from GitHub
+  
+  - Click on the `Code` button. It is usually located near the top right of the page.
+  - In the dropdown, click `Download ZIP`.
+  - Once the ZIP file is downloaded, extract it. You should now have access to the Angst+Pfister Test Studio software, firmware file, manuals for the software, firmware upgrade process, and USB adapters, as well as the datasheet for PFLOW5001 sensor.
+  
+  ### 1.2 Determine appropriate USB adapter
+  - Ensure you have the appropriate USB adapter at hand. Use EX-1309-T for RS485 and RS232 EIA, or MIKROE-1203 for RS232 TTL.
 
 ## 2. Connect the Sensor
 
