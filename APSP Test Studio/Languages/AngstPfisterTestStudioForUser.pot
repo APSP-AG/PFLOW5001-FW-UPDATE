@@ -1,0 +1,626 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: mainunit.ble_001
+msgid "Enter Bluetooth scan mode"
+msgstr ""
+
+#: mainunit.ble_002
+msgid "Scan Bluetooth device"
+msgstr ""
+
+#: mainunit.ble_003
+msgid "Connect Bluetooth device"
+msgstr ""
+
+#: mainunit.ble_004
+msgid "Please wait while you are in operation..."
+msgstr ""
+
+#: mainunit.ble_005
+msgid "Failed to enter AT mode, please try again!"
+msgstr ""
+
+#: mainunit.ble_006
+msgid "The scan is successful, please connect the device!"
+msgstr ""
+
+#: mainunit.ble_007
+msgid "Connection failed, please try again!"
+msgstr ""
+
+#: mainunit.ble_008
+msgid "No Bluetooth device scanned!"
+msgstr ""
+
+#: mainunit.ble_009
+msgid "Connection successful, enter communication mode!"
+msgstr ""
+
+#: mainunit.check
+msgid "Check"
+msgstr ""
+
+#: mainunit.coefficient
+msgid "Coefficient"
+msgstr ""
+
+#: mainunit.ctype
+msgid "C-type"
+msgstr ""
+
+#: mainunit.error
+msgid "Error"
+msgstr ""
+
+#: mainunit.failure
+msgid "Communication failure !"
+msgstr ""
+
+#: mainunit.ids_001
+msgid "Load instrument profile"
+msgstr ""
+
+#: mainunit.ids_002
+msgid "Please make sure you have firmware to upgrade, otherwise do not confirm, this operation is irreversible!"
+msgstr ""
+
+#: mainunit.ids_003
+msgid "Are you sure to exit the program ?"
+msgstr ""
+
+#: mainunit.ids_004
+msgid "Please select a parameter to read !"
+msgstr ""
+
+#: mainunit.ids_005
+msgid "Upgrade firmware"
+msgstr ""
+
+#: mainunit.ids_006
+msgid "Please select a parameter to write !"
+msgstr ""
+
+#: mainunit.ids_007
+msgid "Are you sure to modify the parameter ?"
+msgstr ""
+
+#: mainunit.ids_008
+msgid "Export read parameters"
+msgstr ""
+
+#: mainunit.ids_009
+msgctxt "mainunit.ids_009"
+msgid "Load calibration data"
+msgstr ""
+
+#: mainunit.ids_010
+msgid "The datas are too few or file is illegal !"
+msgstr ""
+
+#: mainunit.ids_011
+msgid "Failed read !"
+msgstr ""
+
+#: mainunit.ids_012
+msgid "Load firmware"
+msgstr ""
+
+#: mainunit.ids_013
+msgid "Elapse"
+msgstr ""
+
+#: mainunit.ids_014
+msgid "Data fitting failed !"
+msgstr ""
+
+#: mainunit.ids_015
+msgctxt "mainunit.ids_015"
+msgid "Write calibration data"
+msgstr ""
+
+#: mainunit.ids_016
+msgctxt "mainunit.ids_016"
+msgid "Read calibration data"
+msgstr ""
+
+#: mainunit.ids_017
+msgid "Writing..."
+msgstr ""
+
+#: mainunit.ids_018
+msgid "Reading…"
+msgstr ""
+
+#: mainunit.ids_019
+msgid "Failed write !"
+msgstr ""
+
+#: mainunit.ids_020
+msgid "Read firmware version failed !"
+msgstr ""
+
+#: mainunit.ids_021
+msgid "Read frame length failed !"
+msgstr ""
+
+#: mainunit.ids_022
+msgid "Are you using the last loaded firmware ?"
+msgstr ""
+
+#: mainunit.ids_023
+msgid "Write successed, verifying..."
+msgstr ""
+
+#: mainunit.ids_024
+msgid "Update failed !"
+msgstr ""
+
+#: mainunit.ids_025
+msgid "Do you delete all the test data?"
+msgstr ""
+
+#: mainunit.ids_026
+msgid "No data to calculate !"
+msgstr ""
+
+#: mainunit.ids_027
+msgid "Data error!"
+msgstr ""
+
+#: mainunit.ids_028
+msgid "The coefficient must be greater than zero !"
+msgstr ""
+
+#: mainunit.ids_029
+msgid "No data to write !"
+msgstr ""
+
+#: mainunit.ids_030
+msgid "Read does not match write !"
+msgstr ""
+
+#: mainunit.ids_031
+msgid "Export test data"
+msgstr ""
+
+#: mainunit.ids_032
+msgid "Select average"
+msgstr ""
+
+#: mainunit.ids_033
+msgid "The number of calibration values read does not correct."
+msgstr ""
+
+#: mainunit.ids_034
+msgid "The number of DCoeff read does not correct."
+msgstr ""
+
+#: mainunit.information
+msgid "Information"
+msgstr ""
+
+#: mainunit.mapreg
+msgid "Map Reg"
+msgstr ""
+
+#: mainunit.mapvalue
+msgid "Map Value"
+msgstr ""
+
+#: mainunit.rawreadvalue
+msgctxt "mainunit.rawreadvalue"
+msgid "Read Value"
+msgstr ""
+
+#: mainunit.rawtestvalue
+msgid "Test Value"
+msgstr ""
+
+#: mainunit.readcoef
+msgid "Read.Coef"
+msgstr ""
+
+#: mainunit.readdada
+msgid "Read Dada"
+msgstr ""
+
+#: mainunit.readflow
+msgid "Read.Flow"
+msgstr ""
+
+#: mainunit.readvalue
+msgctxt "mainunit.readvalue"
+msgid "Read Value"
+msgstr ""
+
+#: mainunit.siargourl
+msgid "https://www.angst-pfister.com/"
+msgstr ""
+
+#: mainunit.sourcevalue
+msgid "Source Value"
+msgstr ""
+
+#: mainunit.stdflowrate
+msgid "Std.Flowrate"
+msgstr ""
+
+#: mainunit.success
+msgid "Operation success !"
+msgstr ""
+
+#: mainunit.testdada
+msgid "Test Dada"
+msgstr ""
+
+#: mainunit.tstflowrate
+msgid "Tst.Flowrate"
+msgstr ""
+
+#: mainunit.vaname
+msgid "Item"
+msgstr ""
+
+#: mainunit.vename
+msgid "Parameter"
+msgstr ""
+
+#: mainunit.versiontitle
+msgctxt "mainunit.versiontitle"
+msgid "Angst+PfisterTestStudioForUser"
+msgstr ""
+
+#: mainunit.vevalue
+msgid "Value"
+msgstr ""
+
+#: mainunit.warning
+msgid "Warning"
+msgstr ""
+
+#: mainunit.writedada
+msgid "Write Dada"
+msgstr ""
+
+#: tfrmabout.caption
+msgid "about"
+msgstr ""
+
+#: tfrmabout.productname.caption
+msgid "Angst+Pfister Test Studio For  User"
+msgstr ""
+
+#: tfrmavgautoinput.caption
+msgid "Average value display"
+msgstr ""
+
+#: tfrmbluetooth.butconnectbluetooth.caption
+msgid "连接蓝牙设备"
+msgstr ""
+
+#: tfrmbluetooth.butenterscan.caption
+msgid "进入扫描模式"
+msgstr ""
+
+#: tfrmbluetooth.butscanbluetooth.caption
+msgid "扫描蓝牙设备"
+msgstr ""
+
+#: tfrmbluetooth.caption
+msgid "Bluetooth Connection"
+msgstr ""
+
+#: tfrmbluetooth.label1.caption
+msgid "1:"
+msgstr ""
+
+#: tfrmbluetooth.label2.caption
+msgid "2:"
+msgstr ""
+
+#: tfrmbluetooth.label3.caption
+msgid "3:"
+msgstr ""
+
+#: tfrmbluetooth.label4.caption
+msgid "4:"
+msgstr ""
+
+#: tfrmbluetooth.panel1.caption
+msgctxt "tfrmbluetooth.panel1.caption"
+msgid "Panel1"
+msgstr ""
+
+#: tfrmcommportconfig.caption
+msgid "Communication Port Config"
+msgstr ""
+
+#: tfrmcommportconfig.ccbaddress.text
+msgid "1"
+msgstr ""
+
+#: tfrmcommportconfig.ccbbaudrate.text
+msgid "38400"
+msgstr ""
+
+#: tfrmcommportconfig.ccbparity.text
+msgctxt "tfrmcommportconfig.ccbparity.text"
+msgid "None"
+msgstr ""
+
+#: tfrmcommportconfig.ccbport.text
+msgid "COM1"
+msgstr ""
+
+#: tfrmcommportconfig.groupbox1.caption
+msgid "Port setting"
+msgstr ""
+
+#: tfrmcommportconfig.label1.caption
+msgid "Com Port:"
+msgstr ""
+
+#: tfrmcommportconfig.label2.caption
+msgid "Baudrate:"
+msgstr ""
+
+#: tfrmcommportconfig.label3.caption
+msgid "Address:"
+msgstr ""
+
+#: tfrmcommportconfig.label4.caption
+msgid "Parity:"
+msgstr ""
+
+#: tfrmupdateprogress.caption
+msgid "frmUpdateProgress"
+msgstr ""
+
+#: tfrmupdateprogress.sbitbtnstop.caption
+msgid "Cancel"
+msgstr ""
+
+#: tfrmupdateprogress.slabel.caption
+msgid "Tips"
+msgstr ""
+
+#: tmainform.btnbluetooth.caption
+msgid "Bluetooth"
+msgstr ""
+
+#: tmainform.btncalcdcoef.caption
+msgid "Calc DCoef"
+msgstr ""
+
+#: tmainform.btnconnect.caption
+msgid "Open/Close Port"
+msgstr ""
+
+#: tmainform.btnloadconfig.caption
+msgid "Load Config"
+msgstr ""
+
+#: tmainform.btnportsetting.caption
+msgid "Port Setting"
+msgstr ""
+
+#: tmainform.btnreadall.caption
+msgctxt "tmainform.btnreadall.caption"
+msgid "Read All"
+msgstr ""
+
+#: tmainform.btnreaddcoef.caption
+msgid "Read DCoef"
+msgstr ""
+
+#: tmainform.btnreadmapreg.caption
+msgctxt "tmainform.btnreadmapreg.caption"
+msgid "Read All"
+msgstr ""
+
+#: tmainform.btnreadparam.caption
+msgid "Read Param"
+msgstr ""
+
+#: tmainform.btnreadrow.caption
+msgid "Read Row"
+msgstr ""
+
+#: tmainform.btnsampldata.caption
+msgid "Sampl Data"
+msgstr ""
+
+#: tmainform.btnsaveparam.caption
+msgid "Save Param"
+msgstr ""
+
+#: tmainform.btnsavereg.caption
+msgid "Save Reg"
+msgstr ""
+
+#: tmainform.btntest.caption
+msgid "Test"
+msgstr ""
+
+#: tmainform.btnupapp.caption
+msgid "Upp APP"
+msgstr ""
+
+#: tmainform.btnwritedcoef.caption
+msgid "Write  DCoef"
+msgstr ""
+
+#: tmainform.btnwriteparam.caption
+msgid "Write Param"
+msgstr ""
+
+#: tmainform.btnwritesettin.caption
+msgid "Write settin"
+msgstr ""
+
+#: tmainform.caption
+msgctxt "tmainform.caption"
+msgid "AngstPfisterTestStudioForUser"
+msgstr ""
+
+#: tmainform.cbselectall.caption
+msgid "Select All"
+msgstr ""
+
+#: tmainform.edtmapreg.text
+msgid "0"
+msgstr ""
+
+#: tmainform.edtmapvalue.text
+msgid "255"
+msgstr ""
+
+#: tmainform.i2cspeed.text
+msgctxt "tmainform.i2cspeed.text"
+msgid "100kbps"
+msgstr ""
+
+#: tmainform.label1.caption
+msgid "    Check Read Item"
+msgstr ""
+
+#: tmainform.label2.caption
+msgid "ms"
+msgstr ""
+
+#: tmainform.lbi2caddr.caption
+msgid "I2C Address"
+msgstr ""
+
+#: tmainform.lbi2cspeed.caption
+msgctxt "tmainform.lbi2cspeed.caption"
+msgid "I2C Speed"
+msgstr ""
+
+#: tmainform.lbmapaddress.caption
+msgid "Map address"
+msgstr ""
+
+#: tmainform.lbmapregister.caption
+msgctxt "tmainform.lbmapregister.caption"
+msgid "Map register"
+msgstr ""
+
+#: tmainform.menuabout.caption
+msgid "About"
+msgstr ""
+
+#: tmainform.menuenglish.caption
+msgid "English"
+msgstr ""
+
+#: tmainform.menuexit.caption
+msgid "Exit"
+msgstr ""
+
+#: tmainform.menulanguages.caption
+msgid "Languages"
+msgstr ""
+
+#: tmainform.menumain.caption
+msgid "Menu"
+msgstr ""
+
+#: tmainform.menuselectmodel.caption
+msgid "Model"
+msgstr ""
+
+#: tmainform.menusimplechinese.caption
+msgid "SimpleChinese"
+msgstr ""
+
+#: tmainform.panel1.caption
+msgctxt "tmainform.panel1.caption"
+msgid "Panel1"
+msgstr ""
+
+#: tmainform.pmaverage1.caption
+msgid "Calculate &Average"
+msgstr ""
+
+#: tmainform.pmdeletealldata.caption
+msgid "&Delete Real-time Datas"
+msgstr ""
+
+#: tmainform.pmdeleteselectrow.caption
+msgid "Delete selected row"
+msgstr ""
+
+#: tmainform.pmdeletetestdatas.caption
+msgid "&Delete Test Datas"
+msgstr ""
+
+#: tmainform.pmloadcaldata.caption
+msgctxt "tmainform.pmloadcaldata.caption"
+msgid "Load calibration data"
+msgstr ""
+
+#: tmainform.pmreadcaldata.caption
+msgctxt "tmainform.pmreadcaldata.caption"
+msgid "Read calibration data"
+msgstr ""
+
+#: tmainform.pmreadcalvalue.caption
+msgid "Read calibration value"
+msgstr ""
+
+#: tmainform.pmsavechartaspicture.caption
+msgid "&Save Chartas Picture"
+msgstr ""
+
+#: tmainform.pmsavetestdata.caption
+msgid "&Save Real-time Test Datas"
+msgstr ""
+
+#: tmainform.pmsavetestdatas.caption
+msgid "&Save Test Datas"
+msgstr ""
+
+#: tmainform.pmwritecaldata.caption
+msgctxt "tmainform.pmwritecaldata.caption"
+msgid "Write calibration data"
+msgstr ""
+
+#: tmainform.pmwritecalvalue.caption
+msgid "Write calibration value"
+msgstr ""
+
+#: tmainform.rbshowdec.caption
+msgid "DEC"
+msgstr ""
+
+#: tmainform.rbshowhex.caption
+msgid "HEX"
+msgstr ""
+
+#: tmainform.shtcaldata.caption
+msgid "Calibration data"
+msgstr ""
+
+#: tmainform.shtdcoef.caption
+msgid "DCoef"
+msgstr ""
+
+#: tmainform.shtmapreg.caption
+msgctxt "tmainform.shtmapreg.caption"
+msgid "Map register"
+msgstr ""
+
+#: tmainform.shtrealdata.caption
+msgid "Real-time test data"
+msgstr ""
+
+#: tmainform.tabsheet1.caption
+msgid "Parameters"
+msgstr ""
+
+#: tmainform.tabsheet2.caption
+msgid "Test Datas"
+msgstr ""
+

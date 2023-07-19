@@ -3,7 +3,7 @@
 This repository contains:
 
 - Angst+Pfister Test Studio software
-- Latest firmware file
+- Latest firmware file (.bin file)
 - Manual for Angst+Pfister Test Studio software
 - Manuals for both USB adapters (EX-1309-T and MIKROE-1203)
 - Datasheet for PFLOW5001 flow sensor
