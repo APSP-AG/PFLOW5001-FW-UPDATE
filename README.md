@@ -72,6 +72,12 @@ This guide covers the initial setup for a firmware update for PFLOW5001/PFLOWC50
 - Open Angst+Pfister Test Studio software on your PC.
 - Please refer to the detailed instructions on how to update the firmware in the separate manual.
 
-## Support
+## Support / Common Issues
+
+If you encounter issues during the setup or the firmware update process, here are some common problems and solutions:
+
+- **Issue: Communication Failed Error**
+  - This could occur due to a variety of reasons such as improper connections, power issues, or software problems.
+  - **Solution:** Try restarting the Angst+Pfister Test Studio software and power cycling (turning off and then on) the sensor. Check your connections to make sure they're secure.
 
 If you have any issues or questions regarding the firmware update process, please post in the [discussions](https://github.com/APSP-AG/PFLOW5001-FW-UPDATE/discussions) section of this repository or contact michel.krapf@angst-pfister.com directly. Our team will be glad to assist you.
