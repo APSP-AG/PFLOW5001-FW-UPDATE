@@ -38,6 +38,7 @@ This guide covers the initial setup for a firmware update for PFLOW5001/PFLOWC50
 
 ## 2. Connect the Sensor
 
+- Attach the appropriate provided cables to the sensor.
 - Connect the VCC and GND of the sensor to a 8-24V power supply. The correct pins are labeled on the provided wires or can be found in the sensor datasheet.
 - Connect your flow sensor to the USB adapter. (see procedure for different protocols below)
 - Connect the USB adapter to your PC.
